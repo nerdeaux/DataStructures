@@ -24,3 +24,10 @@ public class ShellSort {
         }
     }
 }
+
+/*
+1) in-place algorithm
+2) Difficult to nail down the time complexity because it will depend on the gap. Worst case: O(n^2), but it can perform much better than that.
+3) Doesn't require as much shifting as insertion sort, so it usually performs better
+4) Unstable algorithm
+ */
