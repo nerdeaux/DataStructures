@@ -1,7 +1,9 @@
 package SortAlgorithms;
+/**
+ * @author nerdeaux
+ */
 
 //performance degrades quickly
-
 public class BubbleSort {
     public static void main(String[] args) {
         
